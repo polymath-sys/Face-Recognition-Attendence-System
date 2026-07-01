@@ -7,3 +7,11 @@ build/
 dist/
 *.egg-info/
 config.local.ini
+data/
+classifier/
+attSheet.csv
+reports/
+residual_files/
+V2f-2files/
+tempCodeRunnerFile.py
+testexp
